@@ -9,9 +9,9 @@ It continuously updates the time in real-time using basic C++ concepts like loop
 
 - Updates every second 
 
-- Easy to understand and beginner-friendly 💡
+- Easy to understand and beginner-friendly
 
-- Uses standard C++ libraries only — no external dependencies 📦
+- Uses standard C++ libraries only — no external dependencies
 
 🧠 Concepts Used
 
