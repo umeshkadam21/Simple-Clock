@@ -5,8 +5,9 @@ It continuously updates the time in real-time using basic C++ concepts like loop
 
 ⚙️ Features
 
-- Displays current system time 🕒
-- Updates every second ⏱️
+- Displays time 
+
+- Updates every second 
 
 - Easy to understand and beginner-friendly 💡
 
@@ -14,9 +15,7 @@ It continuously updates the time in real-time using basic C++ concepts like loop
 
 🧠 Concepts Used
 
-- time.h / <chrono> for fetching and handling system time
-
-- iostream for displaying output
+- bits/stdc++.h for displaying output
 
 - sleep_for() for delay and smooth time refresh
 
@@ -24,7 +23,7 @@ It continuously updates the time in real-time using basic C++ concepts like loop
 
 🧩 How It Works
 
-- The program fetches the current time from your system.
+- The program takes the current time from the user.
 
 - It clears the screen and updates the displayed time every second.
 
